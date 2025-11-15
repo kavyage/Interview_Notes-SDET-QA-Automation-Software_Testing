@@ -1,4 +1,4 @@
-String s="eswari kavya"; to irawse ayvak
+String s="reverse words"; to esrever sdrow
        String[] words=s.split(" ");
        String rs="", rw="", word;
        for(int i=0;i<words.length;i++){
