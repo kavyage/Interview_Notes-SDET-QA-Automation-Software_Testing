@@ -1,0 +1,2 @@
+String is immutable - creates new objects for modifications
+stringbuilder/stringbugger is mutable -  modify the existing object directly.
